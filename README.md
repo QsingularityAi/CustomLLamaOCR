@@ -1,5 +1,14 @@
 # Llama OCR - Image Text Extraction App
 
+<a href="https://groq.com" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://groq.com/wp-content/uploads/2024/03/PBG-mark1-color.svg"
+    alt="Powered by Groq for fast inference."
+  />
+</a>
+
+
+
 A Chainlit-based web application that uses Groq's Llama Vision model to extract and analyze text from images. The app provides a user-friendly interface for uploading images and getting structured text output.
 
 ## Features
